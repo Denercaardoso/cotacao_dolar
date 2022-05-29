@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Cotacao_do_dolar\Cotação do dólar\Cotação do dólar\bin\Debug\net5.0\Cotação do dólar.exe
+C:\Users\Admin\Desktop\Cotacao_do_dolar\Cotação do dólar\Cotação do dólar\bin\Debug\net5.0\Cotação do dólar.deps.json
+C:\Users\Admin\Desktop\Cotacao_do_dolar\Cotação do dólar\Cotação do dólar\bin\Debug\net5.0\Cotação do dólar.runtimeconfig.json
+C:\Users\Admin\Desktop\Cotacao_do_dolar\Cotação do dólar\Cotação do dólar\bin\Debug\net5.0\Cotação do dólar.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Cotacao_do_dolar\Cotação do dólar\Cotação do dólar\bin\Debug\net5.0\Cotação do dólar.dll
+C:\Users\Admin\Desktop\Cotacao_do_dolar\Cotação do dólar\Cotação do dólar\bin\Debug\net5.0\ref\Cotação do dólar.dll
+C:\Users\Admin\Desktop\Cotacao_do_dolar\Cotação do dólar\Cotação do dólar\bin\Debug\net5.0\Cotação do dólar.pdb
+C:\Users\Admin\Desktop\Cotacao_do_dolar\Cotação do dólar\Cotação do dólar\obj\Debug\net5.0\Cotação do dólar.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Cotacao_do_dolar\Cotação do dólar\Cotação do dólar\obj\Debug\net5.0\Cotação do dólar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Cotacao_do_dolar\Cotação do dólar\Cotação do dólar\obj\Debug\net5.0\Cotação do dólar.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Cotacao_do_dolar\Cotação do dólar\Cotação do dólar\obj\Debug\net5.0\Cotação do dólar.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Cotacao_do_dolar\Cotação do dólar\Cotação do dólar\obj\Debug\net5.0\Cotação do dólar.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Cotacao_do_dolar\Cotação do dólar\Cotação do dólar\obj\Debug\net5.0\Cotação do dólar.dll
+C:\Users\Admin\Desktop\Cotacao_do_dolar\Cotação do dólar\Cotação do dólar\obj\Debug\net5.0\ref\Cotação do dólar.dll
+C:\Users\Admin\Desktop\Cotacao_do_dolar\Cotação do dólar\Cotação do dólar\obj\Debug\net5.0\Cotação do dólar.pdb
+C:\Users\Admin\Desktop\Cotacao_do_dolar\Cotação do dólar\Cotação do dólar\obj\Debug\net5.0\Cotação do dólar.genruntimeconfig.cache
