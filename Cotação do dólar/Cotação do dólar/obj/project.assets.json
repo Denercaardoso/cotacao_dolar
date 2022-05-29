@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Cotação do dólar\\Cotação do dólar\\Cotação do dólar\\Cotação do dólar.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Cotacao_do_dolar\\Cotação do dólar\\Cotação do dólar\\Cotação do dólar.csproj",
       "projectName": "Cotação do dólar",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Cotação do dólar\\Cotação do dólar\\Cotação do dólar\\Cotação do dólar.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\Cotacao_do_dolar\\Cotação do dólar\\Cotação do dólar\\Cotação do dólar.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\Cotação do dólar\\Cotação do dólar\\Cotação do dólar\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\Cotacao_do_dolar\\Cotação do dólar\\Cotação do dólar\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
